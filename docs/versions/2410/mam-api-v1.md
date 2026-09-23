@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MAM API V1 (2410)
+title: MAM API V1
 hide:
   - toc
 ---

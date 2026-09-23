@@ -1,6 +1,6 @@
 ---
 layout: page
-title: System API V1 (2506)
+title: System API V1
 hide:
   - toc
 ---

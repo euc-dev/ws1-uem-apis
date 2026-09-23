@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MDM API V1 (2509)
+title: MDM API V1
 hide:
   - toc
 ---

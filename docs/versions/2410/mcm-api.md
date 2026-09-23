@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MCM API (2410)
+title: MCM API
 hide:
   - toc
 ---

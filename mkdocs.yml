@@ -147,78 +147,78 @@ markdown_extensions:
 # Navigation
 nav:
   - index.md
-  - Bruno Collection:
-    - Getting Started: bruno.md
-    - Versions:
-      - v2604:
-        - Overview: versions/2604/index.md
-        - MAM API V1: versions/2604/mam-api-v1.md
-        - MAM API V2: versions/2604/mam-api-v2.md
-        - MCM API: versions/2604/mcm-api.md
-        - MDM API V1: versions/2604/mdm-api-v1.md
-        - MDM API V2: versions/2604/mdm-api-v2.md
-        - MDM API V3: versions/2604/mdm-api-v3.md
-        - MDM API V4: versions/2604/mdm-api-v4.md
-        - MEM API: versions/2604/mem-api.md
-        - System API V1: versions/2604/system-api-v1.md
-        - System API V2: versions/2604/system-api-v2.md
-      - v2602:
-        - Overview: versions/2602/index.md
-        - MAM API V1: versions/2602/mam-api-v1.md
-        - MAM API V2: versions/2602/mam-api-v2.md
-        - MCM API: versions/2602/mcm-api.md
-        - MDM API V1: versions/2602/mdm-api-v1.md
-        - MDM API V2: versions/2602/mdm-api-v2.md
-        - MDM API V3: versions/2602/mdm-api-v3.md
-        - MDM API V4: versions/2602/mdm-api-v4.md
-        - MEM API: versions/2602/mem-api.md
-        - System API V1: versions/2602/system-api-v1.md
-        - System API V2: versions/2602/system-api-v2.md
-      - v2509:
-        - Overview: versions/2509/index.md
-        - MAM API V1: versions/2509/mam-api-v1.md
-        - MAM API V2: versions/2509/mam-api-v2.md
-        - MCM API: versions/2509/mcm-api.md
-        - MDM API V1: versions/2509/mdm-api-v1.md
-        - MDM API V2: versions/2509/mdm-api-v2.md
-        - MDM API V3: versions/2509/mdm-api-v3.md
-        - MDM API V4: versions/2509/mdm-api-v4.md
-        - MEM API: versions/2509/mem-api.md
-        - System API V1: versions/2509/system-api-v1.md
-        - System API V2: versions/2509/system-api-v2.md
-      - v2508:
-        - Overview: versions/2508/index.md
-        - MAM API V1: versions/2508/mam-api-v1.md
-        - MAM API V2: versions/2508/mam-api-v2.md
-        - MCM API: versions/2508/mcm-api.md
-        - MDM API V1: versions/2508/mdm-api-v1.md
-        - MDM API V2: versions/2508/mdm-api-v2.md
-        - MDM API V3: versions/2508/mdm-api-v3.md
-        - MDM API V4: versions/2508/mdm-api-v4.md
-        - MEM API: versions/2508/mem-api.md
-        - System API V1: versions/2508/system-api-v1.md
-        - System API V2: versions/2508/system-api-v2.md
-      - v2506:
-        - Overview: versions/2506/index.md
-        - MAM API V1: versions/2506/mam-api-v1.md
-        - MAM API V2: versions/2506/mam-api-v2.md
-        - MCM API: versions/2506/mcm-api.md
-        - MDM API V1: versions/2506/mdm-api-v1.md
-        - MDM API V2: versions/2506/mdm-api-v2.md
-        - MDM API V3: versions/2506/mdm-api-v3.md
-        - MDM API V4: versions/2506/mdm-api-v4.md
-        - MEM API: versions/2506/mem-api.md
-        - System API V1: versions/2506/system-api-v1.md
-        - System API V2: versions/2506/system-api-v2.md
-      - v2410:
-        - Overview: versions/2410/index.md
-        - MAM API V1: versions/2410/mam-api-v1.md
-        - MAM API V2: versions/2410/mam-api-v2.md
-        - MCM API: versions/2410/mcm-api.md
-        - MDM API V1: versions/2410/mdm-api-v1.md
-        - MDM API V2: versions/2410/mdm-api-v2.md
-        - MDM API V3: versions/2410/mdm-api-v3.md
-        - MDM API V4: versions/2410/mdm-api-v4.md
-        - MEM API: versions/2410/mem-api.md
-        - System API V1: versions/2410/system-api-v1.md
-        - System API V2: versions/2410/system-api-v2.md
+  - Getting Started: bruno.md
+  - Versions:
+    - v2607:
+      - Overview: versions/2607/index.md
+      - MAM API V1: versions/2607/mam-api-v1.md
+      - MAM API V2: versions/2607/mam-api-v2.md
+      - MCM API: versions/2607/mcm-api.md
+      - MDM API V1: versions/2607/mdm-api-v1.md
+      - MDM API V2: versions/2607/mdm-api-v2.md
+      - MDM API V3: versions/2607/mdm-api-v3.md
+      - MDM API V4: versions/2607/mdm-api-v4.md
+      - MEM API: versions/2607/mem-api.md
+      - System API V1: versions/2607/system-api-v1.md
+      - System API V2: versions/2607/system-api-v2.md
+      - System API V3: versions/2607/system-api-v3.md
+    - v2604:
+      - Overview: versions/2604/index.md
+      - MAM API V1: versions/2604/mam-api-v1.md
+      - MAM API V2: versions/2604/mam-api-v2.md
+      - MCM API: versions/2604/mcm-api.md
+      - MDM API V1: versions/2604/mdm-api-v1.md
+      - MDM API V2: versions/2604/mdm-api-v2.md
+      - MDM API V3: versions/2604/mdm-api-v3.md
+      - MDM API V4: versions/2604/mdm-api-v4.md
+      - MEM API: versions/2604/mem-api.md
+      - System API V1: versions/2604/system-api-v1.md
+      - System API V2: versions/2604/system-api-v2.md
+    - v2602:
+      - Overview: versions/2602/index.md
+      - MAM API V1: versions/2602/mam-api-v1.md
+      - MAM API V2: versions/2602/mam-api-v2.md
+      - MCM API: versions/2602/mcm-api.md
+      - MDM API V1: versions/2602/mdm-api-v1.md
+      - MDM API V2: versions/2602/mdm-api-v2.md
+      - MDM API V3: versions/2602/mdm-api-v3.md
+      - MDM API V4: versions/2602/mdm-api-v4.md
+      - MEM API: versions/2602/mem-api.md
+      - System API V1: versions/2602/system-api-v1.md
+      - System API V2: versions/2602/system-api-v2.md
+    - v2509:
+      - Overview: versions/2509/index.md
+      - MAM API V1: versions/2509/mam-api-v1.md
+      - MAM API V2: versions/2509/mam-api-v2.md
+      - MCM API: versions/2509/mcm-api.md
+      - MDM API V1: versions/2509/mdm-api-v1.md
+      - MDM API V2: versions/2509/mdm-api-v2.md
+      - MDM API V3: versions/2509/mdm-api-v3.md
+      - MDM API V4: versions/2509/mdm-api-v4.md
+      - MEM API: versions/2509/mem-api.md
+      - System API V1: versions/2509/system-api-v1.md
+      - System API V2: versions/2509/system-api-v2.md
+    - v2506:
+      - Overview: versions/2506/index.md
+      - MAM API V1: versions/2506/mam-api-v1.md
+      - MAM API V2: versions/2506/mam-api-v2.md
+      - MCM API: versions/2506/mcm-api.md
+      - MDM API V1: versions/2506/mdm-api-v1.md
+      - MDM API V2: versions/2506/mdm-api-v2.md
+      - MDM API V3: versions/2506/mdm-api-v3.md
+      - MDM API V4: versions/2506/mdm-api-v4.md
+      - MEM API: versions/2506/mem-api.md
+      - System API V1: versions/2506/system-api-v1.md
+      - System API V2: versions/2506/system-api-v2.md
+    - v2410:
+      - Overview: versions/2410/index.md
+      - MAM API V1: versions/2410/mam-api-v1.md
+      - MAM API V2: versions/2410/mam-api-v2.md
+      - MCM API: versions/2410/mcm-api.md
+      - MDM API V1: versions/2410/mdm-api-v1.md
+      - MDM API V2: versions/2410/mdm-api-v2.md
+      - MDM API V3: versions/2410/mdm-api-v3.md
+      - MDM API V4: versions/2410/mdm-api-v4.md
+      - MEM API: versions/2410/mem-api.md
+      - System API V1: versions/2410/system-api-v1.md
+      - System API V2: versions/2410/system-api-v2.md

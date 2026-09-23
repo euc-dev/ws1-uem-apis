@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MEM API (2410)
+title: MEM API
 hide:
   - toc
 ---
